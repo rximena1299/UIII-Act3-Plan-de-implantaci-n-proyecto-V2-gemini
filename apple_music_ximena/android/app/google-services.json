@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "83515133518",
+    "project_id": "proyectofinal-4d22d",
+    "storage_bucket": "proyectofinal-4d22d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83515133518:android:3b3de533b8c707b3c6fd1f",
+        "android_client_info": {
+          "package_name": "com.ximena.applemusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83515133518-nm2p8kb79kiljgrs55ubgrd0eclfl6br.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ximena.applemusic",
+            "certificate_hash": "f8e9e891605a02d6ce64c95ab7dd8bda406fc8e9"
+          }
+        },
+        {
+          "client_id": "83515133518-d8hvquvsg1nh5b15dp1ogbe9q5f4qbcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJTzlw1cgC9mis8YgzTz77WUfmzAgcsUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83515133518-d8hvquvsg1nh5b15dp1ogbe9q5f4qbcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

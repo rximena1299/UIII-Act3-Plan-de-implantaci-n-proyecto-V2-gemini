@@ -1,0 +1,14 @@
+# Ignore build artifacts in flutter app
+apple_music_ximena/build/
+apple_music_ximena/.dart_tool/
+apple_music_ximena/.flutter-plugins-dependencies
+apple_music_ximena/.pub-cache/
+apple_music_ximena/.pub/
+
+# Gradle/Android ignore
+.gradle/
+local.properties
+
+# OS files
+.DS_Store
+*.log
