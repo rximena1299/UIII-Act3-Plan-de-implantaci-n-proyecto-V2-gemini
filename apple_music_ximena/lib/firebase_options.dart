@@ -36,12 +36,12 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDummyWebApiKeyHere1234567890',
-    appId: '1:1234567890:web:dummyappidweb',
-    messagingSenderId: '1234567890',
-    projectId: 'apple-music-ximena',
-    authDomain: 'apple-music-ximena.firebaseapp.com',
-    storageBucket: 'apple-music-ximena.appspot.com',
+    apiKey: 'AIzaSyAJTzlw1cgC9mis8YgzTz77WUfmzAgcsUs',
+    appId: '1:83515133518:web:dummyappidweb', // Reemplazar con el appId de web real de Firebase si se desea conectar a la base de datos real en Web
+    messagingSenderId: '83515133518',
+    projectId: 'proyectofinal-4d22d',
+    authDomain: 'proyectofinal-4d22d.firebaseapp.com',
+    storageBucket: 'proyectofinal-4d22d.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
